@@ -1,7 +1,6 @@
 
 # Microservices Architecture - In-Depth Notes
 
-![Microservices Diagram](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*NpZIbR_hXqwE1ZG7ekJyDw.png)
 
 > **Definition**  
 > Microservices architecture is a method of developing software systems as a suite of small, independent, and loosely coupled services. Each service corresponds to a specific business capability and communicates with other services using lightweight mechanisms like HTTP REST, gRPC, or message queues.
@@ -11,6 +10,9 @@
 ## 🏛️ Monolithic Architecture – Overview
 
 > **Monolithic Architecture** is the traditional model of software development where the entire application is built as a single unit. All business logic, data access, and user interface components are tightly coupled and run in the same process.
+
+
+ ![Microservices Diagram](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*LY7VUfo6ljCu_CbQya4Gnw.png)
 
 ### 🔑 Characteristics
 
@@ -32,6 +34,8 @@
 ## 🚀 Microservices Architecture – Overview
 
 > Microservices split a large system into multiple independent services. Each is focused on a specific business function, developed and deployed independently.
+
+ ![Microservices Diagram](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vT3T9oIdGcb9BJ6iKY9ECQ.png)
 
 ### 🔑 Characteristics
 
